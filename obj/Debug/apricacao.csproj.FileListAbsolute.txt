@@ -1,0 +1,11 @@
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\bin\Debug\apricacao.exe.config
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\bin\Debug\apricacao.exe
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\bin\Debug\apricacao.pdb
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.csproj.AssemblyReference.cache
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.Form1.resources
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.Properties.Resources.resources
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.csproj.GenerateResource.cache
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.csproj.CoreCompileInputs.cache
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.exe
+C:\Users\Xandy\Desktop\Xandy\portal Zatec\apricacao\obj\Debug\apricacao.pdb
